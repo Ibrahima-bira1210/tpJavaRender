@@ -18,8 +18,6 @@ public class Hopital {
         this.Nombre_lit = Nombre_lit;
         this.Personell_Medical = Personell_Medical;
         this.Personnel_Administratif = Personnel_Administratif;
-
-        System.out.println("initialistion d'un hopital");
     }
 
     /* getteurs*/
